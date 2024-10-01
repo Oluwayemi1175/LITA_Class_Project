@@ -17,4 +17,4 @@ The following tools are used for Analysis;
    4. For Data Visualization
 
 - SQL - Structured Query Language for managing data in Relational Database Management System (RDMS) [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- GitHub for building Portfolio [Click Here](Github.com)
+- GitHub for building Portfolio 
