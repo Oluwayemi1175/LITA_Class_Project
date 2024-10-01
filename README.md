@@ -10,10 +10,11 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 
 ### Tools Used
 The following tools are used for Analysis;
-- Microsoft Excel for;
-   1. Data Storage
-   2. Data Cleaning
-   3. Data Analysis
-   4. Data Visualization
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+   1. For Data Storage
+   2. For Data Cleaning
+   3. For Data Analysis
+   4. For Data Visualization
+
 - SQL - Structured Query Language for managing data in Relational Database Management System (RDMS)
 - GitHub for building Portfolio
