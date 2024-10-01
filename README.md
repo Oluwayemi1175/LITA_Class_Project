@@ -45,3 +45,7 @@ Update Table 1
 Set email = 'oobassy1234@gmail.com'
 where Staffid = '2549'
 ```
+### Data Visualization
+---
+
+![Picture1](https://github.com/user-attachments/assets/8381e9b0-25c2-497d-ad51-2078bcada706)
