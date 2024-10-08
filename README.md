@@ -18,7 +18,7 @@
 
 ### Project Overview
 ---
-This Data Analysis project helps to reviewing the sales data to evaluate the performance of the sales over the past year. This analysis will help us to gather enough information by identifying the trends, strengths, weaknesses and opportunities to improve sales strategies.
+This Data Analysis project a careful observation and evaluation of a sales data gathered in year 2015. This analysis indicate the performances of different regions in terms of revenue and units sold, identifying their trends, strengths, weaknesses and opportunities .available which will enable management to make valuable decisions for more productivities.
 
 ### Data Sources
 ---
@@ -47,17 +47,16 @@ In the initial phase of the Data cleaning and preparations, the following action
 ---
 EDA is used to analyze the data set by answering some questions about the Data, such as;
 - What is the overall sales trend?
-- Which product are top sellers?
-- What are the products on peak sales?
+- What is regional sales trend?
+- What are the units sold by region?
 
 ### Data Analysis
 ---
 This is where we include some basic lines of code/queries or even some of the DAX expressions used during analysis;
 
-```SQL
-Update Table 1
-Set email = 'oobassy1234@gmail.com'
-where Staffid = '2549'
+```Excel
+Revenue/Region
+Region/Units Sold
 ```
 ### Data Visualization
 ---
