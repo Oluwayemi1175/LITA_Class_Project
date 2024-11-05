@@ -18,11 +18,11 @@
 
 ### Project Overview
 ---
-This Data Analysis project a careful observation and evaluation of a sales data gathered in year 2015. This analysis indicate the performances of different regions in terms of revenue and units sold, identifying their trends, strengths, weaknesses and opportunities .available which will enable management to make valuable decisions for more productivities.
+This Data Analysis project a careful observation and evaluation of a sales data gathered in year 2015. This analysis indicate the performances of different regions in terms of revenue and units sold, identifying their trends, strengths, weaknesses and opportunities available which will enable management to make valuable decisions for more productivities.
 
 ### Data Sources
 ---
-The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
+The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from online sites such as kaggle or FRED or any other data repository site.
 
 ### Tools Used
 ---
